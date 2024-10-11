@@ -90,7 +90,7 @@ nav ul{
 .read-more {
     font-size: 16px;
     font-weight: 700;
-    display: block;
+    display: inline-block;
     padding: 0.2em 8em;
     margin-left: 0.5rem;
     background-color: #dd1010;
